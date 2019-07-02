@@ -1,0 +1,112 @@
+Has 1140850688 communicators 
+Running 5 tests of Lattice Boltzmann method with 1 devices
+  Test 0:
+    Test dimensions: [23 x 23 x 23], 529 iterations, tolerance 0.378072
+    Initializing LBM calculation...
+    Total points = 23 * 23 * 23 = 12167
+    Allocated grid of blocks with dimensions: (23, 1, 1); 23 blocks total
+    Allocated 23 thread blocks with dimensions: (23, 23, 1); 529 threads per block
+    23 blocks * 529 threads per block = 12167 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 5.0 (MiB)
+Runtime: 2.059 (s)
+Speed: 3.13 (Mlups)
+Bandwidth: 1.3 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=23_529_iterations.txt
+      Error 0.0253973
+      Passed.
+  Test 1:
+    Test dimensions: [23 x 23 x 23], 529 iterations, tolerance 0.378072
+    Initializing LBM calculation...
+    Total points = 23 * 23 * 23 = 12167
+    Allocated grid of blocks with dimensions: (23, 1, 1); 23 blocks total
+    Allocated 23 thread blocks with dimensions: (23, 23, 1); 529 threads per block
+    23 blocks * 529 threads per block = 12167 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 5.0 (MiB)
+Runtime: 2.051 (s)
+Speed: 3.14 (Mlups)
+Bandwidth: 1.3 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=23_529_iterations.txt
+      Error 0.0253973
+      Passed.
+  Test 2:
+    Test dimensions: [23 x 23 x 23], 529 iterations, tolerance 0.378072
+    Initializing LBM calculation...
+    Total points = 23 * 23 * 23 = 12167
+    Allocated grid of blocks with dimensions: (23, 1, 1); 23 blocks total
+    Allocated 23 thread blocks with dimensions: (23, 23, 1); 529 threads per block
+    23 blocks * 529 threads per block = 12167 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 5.0 (MiB)
+Runtime: 1.868 (s)
+Speed: 3.45 (Mlups)
+Bandwidth: 1.4 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=23_529_iterations.txt
+      Error 0.0253973
+      Passed.
+  Test 3:
+    Test dimensions: [23 x 23 x 23], 529 iterations, tolerance 0.378072
+    Initializing LBM calculation...
+    Total points = 23 * 23 * 23 = 12167
+    Allocated grid of blocks with dimensions: (23, 1, 1); 23 blocks total
+    Allocated 23 thread blocks with dimensions: (23, 23, 1); 529 threads per block
+    23 blocks * 529 threads per block = 12167 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 5.0 (MiB)
+Runtime: 1.864 (s)
+Speed: 3.45 (Mlups)
+Bandwidth: 1.4 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=23_529_iterations.txt
+      Error 0.0253973
+      Passed.
+  Test 4:
+    Test dimensions: [23 x 23 x 23], 529 iterations, tolerance 0.378072
+    Initializing LBM calculation...
+    Total points = 23 * 23 * 23 = 12167
+    Allocated grid of blocks with dimensions: (23, 1, 1); 23 blocks total
+    Allocated 23 thread blocks with dimensions: (23, 23, 1); 529 threads per block
+    23 blocks * 529 threads per block = 12167 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 5.0 (MiB)
+Runtime: 1.861 (s)
+Speed: 3.46 (Mlups)
+Bandwidth: 1.4 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=23_529_iterations.txt
+      Error 0.0253973
+      Passed.

@@ -1,0 +1,112 @@
+Has 1140850688 communicators 
+Running 5 tests of Lattice Boltzmann method with 1 devices
+  Test 0:
+    Test dimensions: [19 x 19 x 19], 361 iterations, tolerance 0.554017
+    Initializing LBM calculation...
+    Total points = 19 * 19 * 19 = 6859
+    Allocated grid of blocks with dimensions: (19, 1, 1); 19 blocks total
+    Allocated 19 thread blocks with dimensions: (19, 19, 1); 361 threads per block
+    19 blocks * 361 threads per block = 6859 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 2.8 (MiB)
+Runtime: 0.849 (s)
+Speed: 2.91 (Mlups)
+Bandwidth: 1.2 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=19_361_iterations.txt
+      Error 0.0370528
+      Passed.
+  Test 1:
+    Test dimensions: [19 x 19 x 19], 361 iterations, tolerance 0.554017
+    Initializing LBM calculation...
+    Total points = 19 * 19 * 19 = 6859
+    Allocated grid of blocks with dimensions: (19, 1, 1); 19 blocks total
+    Allocated 19 thread blocks with dimensions: (19, 19, 1); 361 threads per block
+    19 blocks * 361 threads per block = 6859 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 2.8 (MiB)
+Runtime: 0.994 (s)
+Speed: 2.49 (Mlups)
+Bandwidth: 1.0 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=19_361_iterations.txt
+      Error 0.0370528
+      Passed.
+  Test 2:
+    Test dimensions: [19 x 19 x 19], 361 iterations, tolerance 0.554017
+    Initializing LBM calculation...
+    Total points = 19 * 19 * 19 = 6859
+    Allocated grid of blocks with dimensions: (19, 1, 1); 19 blocks total
+    Allocated 19 thread blocks with dimensions: (19, 19, 1); 361 threads per block
+    19 blocks * 361 threads per block = 6859 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 2.8 (MiB)
+Runtime: 0.956 (s)
+Speed: 2.59 (Mlups)
+Bandwidth: 1.0 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=19_361_iterations.txt
+      Error 0.0370528
+      Passed.
+  Test 3:
+    Test dimensions: [19 x 19 x 19], 361 iterations, tolerance 0.554017
+    Initializing LBM calculation...
+    Total points = 19 * 19 * 19 = 6859
+    Allocated grid of blocks with dimensions: (19, 1, 1); 19 blocks total
+    Allocated 19 thread blocks with dimensions: (19, 19, 1); 361 threads per block
+    19 blocks * 361 threads per block = 6859 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 2.8 (MiB)
+Runtime: 0.847 (s)
+Speed: 2.92 (Mlups)
+Bandwidth: 1.2 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=19_361_iterations.txt
+      Error 0.0370528
+      Passed.
+  Test 4:
+    Test dimensions: [19 x 19 x 19], 361 iterations, tolerance 0.554017
+    Initializing LBM calculation...
+    Total points = 19 * 19 * 19 = 6859
+    Allocated grid of blocks with dimensions: (19, 1, 1); 19 blocks total
+    Allocated 19 thread blocks with dimensions: (19, 19, 1); 361 threads per block
+    19 blocks * 361 threads per block = 6859 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 2.8 (MiB)
+Runtime: 0.821 (s)
+Speed: 3.02 (Mlups)
+Bandwidth: 1.2 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=19_361_iterations.txt
+      Error 0.0370528
+      Passed.

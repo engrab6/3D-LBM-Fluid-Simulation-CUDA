@@ -1,0 +1,112 @@
+Has 1140850688 communicators 
+Running 5 tests of Lattice Boltzmann method with 1 devices
+  Test 0:
+    Test dimensions: [30 x 30 x 30], 900 iterations, tolerance 0.222222
+    Initializing LBM calculation...
+    Total points = 30 * 30 * 30 = 27000
+    Allocated grid of blocks with dimensions: (30, 1, 1); 30 blocks total
+    Allocated 30 thread blocks with dimensions: (30, 30, 1); 900 threads per block
+    30 blocks * 900 threads per block = 27000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 11.1 (MiB)
+Runtime: 8.819 (s)
+Speed: 2.76 (Mlups)
+Bandwidth: 1.1 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=30_900_iterations.txt
+      Error 0.0149862
+      Passed.
+  Test 1:
+    Test dimensions: [30 x 30 x 30], 900 iterations, tolerance 0.222222
+    Initializing LBM calculation...
+    Total points = 30 * 30 * 30 = 27000
+    Allocated grid of blocks with dimensions: (30, 1, 1); 30 blocks total
+    Allocated 30 thread blocks with dimensions: (30, 30, 1); 900 threads per block
+    30 blocks * 900 threads per block = 27000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 11.1 (MiB)
+Runtime: 8.788 (s)
+Speed: 2.77 (Mlups)
+Bandwidth: 1.1 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=30_900_iterations.txt
+      Error 0.0149862
+      Passed.
+  Test 2:
+    Test dimensions: [30 x 30 x 30], 900 iterations, tolerance 0.222222
+    Initializing LBM calculation...
+    Total points = 30 * 30 * 30 = 27000
+    Allocated grid of blocks with dimensions: (30, 1, 1); 30 blocks total
+    Allocated 30 thread blocks with dimensions: (30, 30, 1); 900 threads per block
+    30 blocks * 900 threads per block = 27000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 11.1 (MiB)
+Runtime: 8.626 (s)
+Speed: 2.82 (Mlups)
+Bandwidth: 1.1 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=30_900_iterations.txt
+      Error 0.0149862
+      Passed.
+  Test 3:
+    Test dimensions: [30 x 30 x 30], 900 iterations, tolerance 0.222222
+    Initializing LBM calculation...
+    Total points = 30 * 30 * 30 = 27000
+    Allocated grid of blocks with dimensions: (30, 1, 1); 30 blocks total
+    Allocated 30 thread blocks with dimensions: (30, 30, 1); 900 threads per block
+    30 blocks * 900 threads per block = 27000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 11.1 (MiB)
+Runtime: 8.612 (s)
+Speed: 2.82 (Mlups)
+Bandwidth: 1.1 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=30_900_iterations.txt
+      Error 0.0149862
+      Passed.
+  Test 4:
+    Test dimensions: [30 x 30 x 30], 900 iterations, tolerance 0.222222
+    Initializing LBM calculation...
+    Total points = 30 * 30 * 30 = 27000
+    Allocated grid of blocks with dimensions: (30, 1, 1); 30 blocks total
+    Allocated 30 thread blocks with dimensions: (30, 30, 1); 900 threads per block
+    30 blocks * 900 threads per block = 27000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 11.1 (MiB)
+Runtime: 8.628 (s)
+Speed: 2.82 (Mlups)
+Bandwidth: 1.1 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=30_900_iterations.txt
+      Error 0.0149862
+      Passed.

@@ -1,0 +1,1 @@
+for N in 17 19 21 23 27 29; do nvprof ./test_lbm -num_tests 5 -scale $N >> N=$N.txt; done;

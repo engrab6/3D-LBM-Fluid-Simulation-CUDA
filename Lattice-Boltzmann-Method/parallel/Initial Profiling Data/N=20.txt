@@ -1,0 +1,112 @@
+Has 1140850688 communicators 
+Running 5 tests of Lattice Boltzmann method with 1 devices
+  Test 0:
+    Test dimensions: [20 x 20 x 20], 400 iterations, tolerance 0.5
+    Initializing LBM calculation...
+    Total points = 20 * 20 * 20 = 8000
+    Allocated grid of blocks with dimensions: (20, 1, 1); 20 blocks total
+    Allocated 20 thread blocks with dimensions: (20, 20, 1); 400 threads per block
+    20 blocks * 400 threads per block = 8000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 3.3 (MiB)
+Runtime: 1.129 (s)
+Speed: 2.83 (Mlups)
+Bandwidth: 1.1 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=20_400_iterations.txt
+      Error 0.0334855
+      Passed.
+  Test 1:
+    Test dimensions: [20 x 20 x 20], 400 iterations, tolerance 0.5
+    Initializing LBM calculation...
+    Total points = 20 * 20 * 20 = 8000
+    Allocated grid of blocks with dimensions: (20, 1, 1); 20 blocks total
+    Allocated 20 thread blocks with dimensions: (20, 20, 1); 400 threads per block
+    20 blocks * 400 threads per block = 8000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 3.3 (MiB)
+Runtime: 1.147 (s)
+Speed: 2.79 (Mlups)
+Bandwidth: 1.1 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=20_400_iterations.txt
+      Error 0.0334855
+      Passed.
+  Test 2:
+    Test dimensions: [20 x 20 x 20], 400 iterations, tolerance 0.5
+    Initializing LBM calculation...
+    Total points = 20 * 20 * 20 = 8000
+    Allocated grid of blocks with dimensions: (20, 1, 1); 20 blocks total
+    Allocated 20 thread blocks with dimensions: (20, 20, 1); 400 threads per block
+    20 blocks * 400 threads per block = 8000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 3.3 (MiB)
+Runtime: 1.250 (s)
+Speed: 2.56 (Mlups)
+Bandwidth: 1.0 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=20_400_iterations.txt
+      Error 0.0334855
+      Passed.
+  Test 3:
+    Test dimensions: [20 x 20 x 20], 400 iterations, tolerance 0.5
+    Initializing LBM calculation...
+    Total points = 20 * 20 * 20 = 8000
+    Allocated grid of blocks with dimensions: (20, 1, 1); 20 blocks total
+    Allocated 20 thread blocks with dimensions: (20, 20, 1); 400 threads per block
+    20 blocks * 400 threads per block = 8000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 3.3 (MiB)
+Runtime: 1.110 (s)
+Speed: 2.88 (Mlups)
+Bandwidth: 1.2 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=20_400_iterations.txt
+      Error 0.0334855
+      Passed.
+  Test 4:
+    Test dimensions: [20 x 20 x 20], 400 iterations, tolerance 0.5
+    Initializing LBM calculation...
+    Total points = 20 * 20 * 20 = 8000
+    Allocated grid of blocks with dimensions: (20, 1, 1); 20 blocks total
+    Allocated 20 thread blocks with dimensions: (20, 20, 1); 400 threads per block
+    20 blocks * 400 threads per block = 8000 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 3.3 (MiB)
+Runtime: 1.110 (s)
+Speed: 2.88 (Mlups)
+Bandwidth: 1.2 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=20_400_iterations.txt
+      Error 0.0334855
+      Passed.

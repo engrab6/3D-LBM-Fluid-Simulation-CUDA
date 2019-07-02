@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.cu": "c",
+        "lbm.h": "c"
+    }
+}

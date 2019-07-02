@@ -1,0 +1,112 @@
+Has 1140850688 communicators 
+Running 5 tests of Lattice Boltzmann method with 1 devices
+  Test 0:
+    Test dimensions: [11 x 11 x 11], 121 iterations, tolerance 1.65289
+    Initializing LBM calculation...
+    Total points = 11 * 11 * 11 = 1331
+    Allocated grid of blocks with dimensions: (11, 1, 1); 11 blocks total
+    Allocated 11 thread blocks with dimensions: (11, 11, 1); 121 threads per block
+    11 blocks * 121 threads per block = 1331 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 0.5 (MiB)
+Runtime: 0.035 (s)
+Speed: 4.55 (Mlups)
+Bandwidth: 1.8 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=11_121_iterations.txt
+      Error 0.107505
+      Passed.
+  Test 1:
+    Test dimensions: [11 x 11 x 11], 121 iterations, tolerance 1.65289
+    Initializing LBM calculation...
+    Total points = 11 * 11 * 11 = 1331
+    Allocated grid of blocks with dimensions: (11, 1, 1); 11 blocks total
+    Allocated 11 thread blocks with dimensions: (11, 11, 1); 121 threads per block
+    11 blocks * 121 threads per block = 1331 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 0.5 (MiB)
+Runtime: 0.035 (s)
+Speed: 4.54 (Mlups)
+Bandwidth: 1.8 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=11_121_iterations.txt
+      Error 0.107505
+      Passed.
+  Test 2:
+    Test dimensions: [11 x 11 x 11], 121 iterations, tolerance 1.65289
+    Initializing LBM calculation...
+    Total points = 11 * 11 * 11 = 1331
+    Allocated grid of blocks with dimensions: (11, 1, 1); 11 blocks total
+    Allocated 11 thread blocks with dimensions: (11, 11, 1); 121 threads per block
+    11 blocks * 121 threads per block = 1331 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 0.5 (MiB)
+Runtime: 0.035 (s)
+Speed: 4.56 (Mlups)
+Bandwidth: 1.8 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=11_121_iterations.txt
+      Error 0.107505
+      Passed.
+  Test 3:
+    Test dimensions: [11 x 11 x 11], 121 iterations, tolerance 1.65289
+    Initializing LBM calculation...
+    Total points = 11 * 11 * 11 = 1331
+    Allocated grid of blocks with dimensions: (11, 1, 1); 11 blocks total
+    Allocated 11 thread blocks with dimensions: (11, 11, 1); 121 threads per block
+    11 blocks * 121 threads per block = 1331 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 0.5 (MiB)
+Runtime: 0.036 (s)
+Speed: 4.49 (Mlups)
+Bandwidth: 1.8 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=11_121_iterations.txt
+      Error 0.107505
+      Passed.
+  Test 4:
+    Test dimensions: [11 x 11 x 11], 121 iterations, tolerance 1.65289
+    Initializing LBM calculation...
+    Total points = 11 * 11 * 11 = 1331
+    Allocated grid of blocks with dimensions: (11, 1, 1); 11 blocks total
+    Allocated 11 thread blocks with dimensions: (11, 11, 1); 121 threads per block
+    11 blocks * 121 threads per block = 1331 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 0.5 (MiB)
+Runtime: 0.035 (s)
+Speed: 4.55 (Mlups)
+Bandwidth: 1.8 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=11_121_iterations.txt
+      Error 0.107505
+      Passed.

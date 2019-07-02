@@ -1,0 +1,112 @@
+Has 1140850688 communicators 
+Running 5 tests of Lattice Boltzmann method with 1 devices
+  Test 0:
+    Test dimensions: [25 x 25 x 25], 625 iterations, tolerance 0.32
+    Initializing LBM calculation...
+    Total points = 25 * 25 * 25 = 15625
+    Allocated grid of blocks with dimensions: (25, 1, 1); 25 blocks total
+    Allocated 25 thread blocks with dimensions: (25, 25, 1); 625 threads per block
+    25 blocks * 625 threads per block = 15625 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 6.4 (MiB)
+Runtime: 3.252 (s)
+Speed: 3.00 (Mlups)
+Bandwidth: 1.2 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=25_625_iterations.txt
+      Error 0.0215275
+      Passed.
+  Test 1:
+    Test dimensions: [25 x 25 x 25], 625 iterations, tolerance 0.32
+    Initializing LBM calculation...
+    Total points = 25 * 25 * 25 = 15625
+    Allocated grid of blocks with dimensions: (25, 1, 1); 25 blocks total
+    Allocated 25 thread blocks with dimensions: (25, 25, 1); 625 threads per block
+    25 blocks * 625 threads per block = 15625 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 6.4 (MiB)
+Runtime: 3.254 (s)
+Speed: 3.00 (Mlups)
+Bandwidth: 1.2 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=25_625_iterations.txt
+      Error 0.0215275
+      Passed.
+  Test 2:
+    Test dimensions: [25 x 25 x 25], 625 iterations, tolerance 0.32
+    Initializing LBM calculation...
+    Total points = 25 * 25 * 25 = 15625
+    Allocated grid of blocks with dimensions: (25, 1, 1); 25 blocks total
+    Allocated 25 thread blocks with dimensions: (25, 25, 1); 625 threads per block
+    25 blocks * 625 threads per block = 15625 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 6.4 (MiB)
+Runtime: 3.101 (s)
+Speed: 3.15 (Mlups)
+Bandwidth: 1.3 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=25_625_iterations.txt
+      Error 0.0215275
+      Passed.
+  Test 3:
+    Test dimensions: [25 x 25 x 25], 625 iterations, tolerance 0.32
+    Initializing LBM calculation...
+    Total points = 25 * 25 * 25 = 15625
+    Allocated grid of blocks with dimensions: (25, 1, 1); 25 blocks total
+    Allocated 25 thread blocks with dimensions: (25, 25, 1); 625 threads per block
+    25 blocks * 625 threads per block = 15625 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 6.4 (MiB)
+Runtime: 3.100 (s)
+Speed: 3.15 (Mlups)
+Bandwidth: 1.3 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=25_625_iterations.txt
+      Error 0.0215275
+      Passed.
+  Test 4:
+    Test dimensions: [25 x 25 x 25], 625 iterations, tolerance 0.32
+    Initializing LBM calculation...
+    Total points = 25 * 25 * 25 = 15625
+    Allocated grid of blocks with dimensions: (25, 1, 1); 25 blocks total
+    Allocated 25 thread blocks with dimensions: (25, 25, 1); 625 threads per block
+    25 blocks * 625 threads per block = 15625 threads total
+Remote CUDA information: 
+Device name: GeForce GTX 765M
+# of multiprocessors: 4
+compute capability: 3.0
+GPU global memory available: 1999.2 MiB
+
+Performance Statistics: 
+GPU Memory Allocated: 6.4 (MiB)
+Runtime: 3.095 (s)
+Speed: 3.16 (Mlups)
+Bandwidth: 1.3 (GiB/s)
+Printing number_of_points,runtime (s) ,speed (Mlups),bandwidth (GiB/s)
+Filename = output_N=25_625_iterations.txt
+      Error 0.0215275
+      Passed.
